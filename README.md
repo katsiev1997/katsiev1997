@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> , I'm Amaan Sayyad </h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> , I'm Mikail Katsiev</h1>
 
-### A Blockchain Developer, Developer Advocate & Budding Entrepreneur
+### A Frontend Developer
  
 I thrive on leveraging technology to create innovative solutions and empower communities. Love Opensource and Exploring Web3 Space. Discussing new product ideas with different people on different topics all around the globe.
 
