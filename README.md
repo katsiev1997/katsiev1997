@@ -7,8 +7,8 @@
  
 I thrive on leveraging technology to create innovative solutions and empower communities. Love Opensource and Exploring Web3 Space. Discussing new product ideas with different people on different topics all around the globe.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AmaanSayyad)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AmaanSayyad)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/katsiev1997)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/katsiev1997)
 
 <h1><p align="center">Let's connect!</p></h1>
 
