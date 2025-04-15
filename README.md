@@ -27,7 +27,7 @@ I thrive on leveraging technology to create innovative solutions and empower com
 <p align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=katsiev1997&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/></p>
 
-<p dir="auto"><a href="https://wakatime.com/@mikail_katsiev" rel="nofollow"></a></p>
+<a href="https://wakatime.com/@9fafca01-7dfc-4478-96fd-9368a95764bf"><img src="https://wakatime.com/badge/user/9fafca01-7dfc-4478-96fd-9368a95764bf.svg" alt="Total time coded since Jul 29 2024" /></a>
 
 
   
