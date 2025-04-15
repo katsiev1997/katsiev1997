@@ -23,11 +23,11 @@ I thrive on leveraging technology to create innovative solutions and empower com
 
 <p align="left">  
   <img src='https://github-readme-stats.vercel.app/api?username=katsiev1997&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/></p>
-    <iframe src="https://wakatime.com/@mikail_katsiev" height="500px" width="500px"></iframe>
+
 <p align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=katsiev1997&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/></p>
 
-
+<p dir="auto"><a href="https://wakatime.com/@mikail_katsiev" rel="nofollow"></a></p>
 
 
   
