@@ -13,7 +13,8 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
+
+  <a href="https://wakatime.com/@9fafca01-7dfc-4478-96fd-9368a95764bf"><img src="https://wakatime.com/badge/user/9fafca01-7dfc-4478-96fd-9368a95764bf.svg" alt="Total time coded since Jul 29 2024" /></a>
 
 <br/>  
 
@@ -127,11 +128,7 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-## 📌 Github Stats
 
-<a href="https://wakatime.com/@9fafca01-7dfc-4478-96fd-9368a95764bf"><img src="https://wakatime.com/badge/user/9fafca01-7dfc-4478-96fd-9368a95764bf.svg" alt="Total time coded since Jul 29 2024" /></a>
 
 <p align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=katsiev1997&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/></p>
